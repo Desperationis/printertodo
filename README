@@ -1,0 +1,8 @@
+sudo apt install texlive-xetex
+
+1. get a good font at nerdfonts and install it
+
+2. use the cheat sheet feature to find a nice box
+
+3. Use `fc-list : family` to get a name
+
